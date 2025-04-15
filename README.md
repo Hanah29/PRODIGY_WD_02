@@ -27,3 +27,4 @@ A simple stopwatch web application with start, stop, pause, reset, and lap funct
 ## Contributing
 
 Feel free to contribute via pull requests.
+Live Demo:https://hanah29.github.io/PRODIGY_WD_02/
